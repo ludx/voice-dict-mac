@@ -2,4 +2,6 @@
 
 对于不规则的单词，以及选中单词包含标点符号的特殊情况做了简单处理。
 
-用于播放语音的文件[Play Sound](http://www.macupdate.com/app/mac/8479/play-sound)。
+用于播放语音的文件下载[Play Sound](http://www.macupdate.com/app/mac/8479/play-sound)。
+
+效果请见[视频预览](https://github.com/ludx/voice-dict-mac/blob/master/demo.mov)。
